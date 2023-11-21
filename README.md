@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi There 👋
+Hello, my name is **Abdullah Elsayed**, and I am a self-study of **computer science** with a strong interest in **web development** and **system administration**. I'm currently learning **ASP.NET** from ASP.NET Core 5 for Beginners by Andreas Helland & other, and I'm excited about the possibilities it offers. :computer:
+
+Aside from coding, I enjoy exploring new **technologies and tools**, reading **technical blogs**, and working on **personal projects**. I believe in **continuous learning** and improving my **skills**, both technical and interpersonal. :books:
+
+This GitHub profile showcases some of my projects. I hope they inspire you to explore new **ideas and technologies**, as they have for me. :rocket:
+
 
 <!--
 **zzzxxx729/zzzxxx729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
